@@ -1,6 +1,6 @@
 <?php
 
-namespace Cklmercer\ModelSettings;
+namespace xqus\ModelSettings;
 
 use Illuminate\Support\Arr;
 use Illuminate\Database\Eloquent\Model;
