@@ -1,11 +1,11 @@
 {
-    "name": "cklmercer/laravel-model-settings",
+    "name": "xqus/laravel-model-settings",
     "description": "Add simple yet flexible settings to your Laravel models.",
     "keywords": ["laravel", "settings", "models"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/cklmercer/laravel-model-settings/issues",
-        "source": "https://github.com/cklmercer/laravel-model-settings"
+        "issues": "https://github.com/xqus/laravel-model-settings/issues",
+        "source": "https://github.com/xqus/laravel-model-settings"
     },
     "authors": [
         {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cklmercer\\ModelSettings\\": "src/"
+            "xqus\\ModelSettings\\": "src/"
         }
 	},
     
