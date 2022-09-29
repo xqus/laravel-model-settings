@@ -6,7 +6,7 @@ _Note: I will be updating this plugin in the near future to better match the API
 ## Installation
 ##### 1.) Install via composer
 ```bash
-composer require cklmercer/laravel-model-settings
+composer require xqus/laravel-model-settings
 ```
 
 ##### 2.) Add a JSON settings field to your model's migration.
